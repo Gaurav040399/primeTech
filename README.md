@@ -62,3 +62,6 @@ curl http://localhost:8080/clients
 
 - Adjust the server URL in `index.js` if the server is running on a different host/port.
 
+![Main page](./Images/primeTech1.png)
+![Main page](./Images/primeTech2.png)
+
